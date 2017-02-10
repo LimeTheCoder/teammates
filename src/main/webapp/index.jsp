@@ -126,11 +126,25 @@
             <div class="overviewByteData">
                 <h2 class="overviewByteHeading">Well Received by the Academic Community:</h2>
                 <p>
-                    TEAMMATES has been presented, and well-received, in education-related conferences such as the 
-                    <a href="http://conferences.computer.org/cseet/2011/CSEET_2011/Index.html" target="_blank" rel="noopener noreferrer">International Conference on Software Engineering Education and Training (CSEET)</a>,
-                    the <a href="http://www.cdtl.nus.edu.sg/Tlhe/tlhe2011/default.htm" target="_blank" rel="noopener noreferrer">International Conference on Teaching and Learning in Higher Education (TLHE)</a>,
-                    the <a href="https://iated.org/edulearn13/" target="_blank" rel="noopener noreferrer">EDULEARN13 Conference (Spain)</a>,
-                    and the <a href="http://cdtl.nus.edu.sg/tel2013/" target="_blank" rel="noopener noreferrer">Tel2013 Symposium (Singapore)</a>.
+                    TEAMMATES has been presented, and well-received, in education-related conferences such as:
+                    <div style="margin: 0 auto; padding: 0 20px 15px;">
+                        <ul>
+                            <li style="margin: 0 0 10px 0;">
+                            <a href="http://conferences.computer.org/cseet/2011/CSEET_2011/Index.html" target="_blank" 
+                            rel="noopener noreferrer">International Conference on Software Engineering Education and Training (CSEET)</a>
+                            </li>
+                            <li style="margin: 0 0 10px 0;">
+                            <a href="http://www.cdtl.nus.edu.sg/Tlhe/tlhe2011/default.htm" target="_blank" 
+                            rel="noopener noreferrer">International Conference on Teaching and Learning in Higher Education (TLHE)</a>
+                            </li>
+                            <li style="margin: 0 0 10px 0;">
+                            <a href="https://iated.org/edulearn13/" target="_blank" rel="noopener noreferrer">EDULEARN13 Conference (Spain)</a>
+                            </li>
+                            <li style="margin: 0 0 10px 0;">
+                            <a href="http://cdtl.nus.edu.sg/tel2013/" target="_blank" rel="noopener noreferrer">Tel2013 Symposium (Singapore)</a>
+                            </li>
+                        </ul>
+                    </div>
                 </p>
             </div>
             <div style="clear: both;"></div>
